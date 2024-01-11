@@ -1,0 +1,14 @@
+/* NavbarStyles.css */
+
+.nav-link-style {
+  color: #ffffff !important;
+  font-weight: bold !important;
+  text-decoration: none !important;
+  margin-right: 15px !important;
+}
+
+.nav-link-style:hover {
+  color: #159e69 !important;
+}
+
+  
